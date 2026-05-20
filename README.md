@@ -7,7 +7,7 @@ Tole je v readme Tole je v readme Tole je v readme Tole je v readme Tole je v re
 
 ![Moja slika](images/TCP_IP_ver2.JPG)
 
-![Moja slika222222222222](termial2.JPG)
+![Moja slika222222222222](images/termial2.JPG)
 
 
 nnnnnnnnnnnnnnnnnnnn
