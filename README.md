@@ -5,8 +5,7 @@ aaaaa
 Tole je v readme 
 Tole je v readme Tole je v readme Tole je v readme Tole je v readme Tole je v readme Tole je v readme Tole je v readme Tole je v readme 
 
-![Moja slika](terminal2.JPG)
-![test](terminal2.JPG)
+![Moja slika](TCP_IP_ver2.JPG)
 
 
 nnnnnnnnnnnnnnnnnnnn
