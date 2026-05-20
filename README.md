@@ -5,7 +5,7 @@ aaaaa
 Tole je v readme 
 Tole je v readme Tole je v readme Tole je v readme Tole je v readme Tole je v readme Tole je v readme Tole je v readme Tole je v readme 
 
-![Moja slika](main/terminal2.jpg)
+![Moja slika](/main/terminal2.jpg)
 
 
 nnnnnnnnnnnnnnnnnnnn
